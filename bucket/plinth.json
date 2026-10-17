@@ -1,0 +1,10 @@
+{
+  "version": "0.0.0",
+  "description": "Plinth",
+  "homepage": "https://github.com/fabwaseem/plinth",
+  "license": "MIT",
+  "url": "https://github.com/fabwaseem/plinth/releases/download/v0.0.0/Plinth-win-x64-Portable.exe",
+  "hash": "sha256:0000000000000000000000000000000000000000000000000000000000000000",
+  "bin": "Plinth-win-x64-Portable.exe",
+  "shortcuts": [["Plinth-win-x64-Portable.exe", "Plinth"]]
+}
